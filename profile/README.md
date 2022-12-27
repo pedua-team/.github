@@ -1,3 +1,3 @@
-## Pedua
+## PeduaCancel changes
 
-![ancient autopsy illustration](pedua.jpg "pedua")
+![ancient autopsy illustration](autopsy-illustration.jpg "pedua")
