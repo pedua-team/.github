@@ -1,3 +1,3 @@
 ## Pedua
 
-![ancient autopsy illustration](Isolated.png "Title")
+![ancient autopsy illustration](pedua.jpg "pedua")
