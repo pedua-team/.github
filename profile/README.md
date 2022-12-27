@@ -1,3 +1,3 @@
 ## Pedua
 
-![ancient autopsy illustration]([autopsy-illustration.jpg](https://raw.githubusercontent.com/pedua-team/.github/main/profile/autopsy-illustration.jpg) "pedua")
+<img src="https://raw.githubusercontent.com/pedua-team/.github/main/profile/autopsy-illustration.jpg" alt="ancient autopsy illustration" />
